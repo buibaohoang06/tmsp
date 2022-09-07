@@ -1,0 +1,9 @@
+{
+    "users":{
+        "admin":{
+            "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJLHWeA-NMFC1hod2-twQCb338iUWIlG4pLx56u_CQw&s",
+            "email": "admin@school.edu",
+            "fullname": "admin"
+        }
+    }
+}
